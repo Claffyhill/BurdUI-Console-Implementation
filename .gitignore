@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+
+# IDE
+.vs/
+.vscode/
+*.csproj.user
+
+# Runtime
+*.log
+*.pdb
+
+# OS
+.DS_Store
+Thumbs.db
